@@ -2,6 +2,8 @@
 
 Buttons are used to perform actions in the product.
 
+This is more information about a button.
+
 ## Default
 
 {% embed url="https://5ccbc373887ca40020446347-geedzbiswp.chromatic.com/iframe.html?id=button--basic&args=size:medium;containsIcon:false&viewMode=story" %}
