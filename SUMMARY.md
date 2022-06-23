@@ -14,6 +14,8 @@
 
 ## Hah, what's this?
 
+* [Some new page](some-new-page.md)
+
 ***
 
-* [Some new page](some-new-page.md)
+* [Another new page](another-new-page.md)
