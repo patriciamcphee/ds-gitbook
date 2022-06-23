@@ -12,7 +12,7 @@
   * [AvatarStack](basics/components/avatarstack.md)
   * [Button](basics/components/button.md)
 
-## Basics
+## Hah, what's this?
 
 ***
 
