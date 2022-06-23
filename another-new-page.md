@@ -1,5 +1,3 @@
 # Another new page
 
-```javascript
-import { Button } from '../../src/stories/Button'
-```
+<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
