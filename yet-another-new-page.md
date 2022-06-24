@@ -17,3 +17,9 @@ this is a hint
 text here
 
 </details>
+
+|     test    |     test    |     test    |
+| :---------: | :---------: | :---------: |
+| another row | another row | another row |
+|             |             |             |
+|             |             |             |
