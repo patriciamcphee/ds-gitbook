@@ -23,3 +23,13 @@ text here
 | another row | another row | another row |
 |             |             |             |
 |             |             |             |
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
