@@ -18,4 +18,5 @@
 
 ***
 
+* [Yet another new page](yet-another-new-page.md)
 * [Another new page](another-new-page.md)
