@@ -24,6 +24,8 @@ text here
 |             |             |             |
 |             |             |             |
 
+{% embed url="https://codesandbox.io/embed/antd-reproduction-template-6e93z?fontsize=14&hidenavigation=1&theme=dark" %}
+
 {% tabs %}
 {% tab title="First Tab" %}
 
